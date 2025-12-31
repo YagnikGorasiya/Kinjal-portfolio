@@ -1,23 +1,28 @@
 [
   {
-    "title": "Jewellery",
-    "description": "Full brand identity creation for a fictional luxury jewellery brand. Includes logo concepts, typography selection, color palette development, and brand style guide documentation.",
+    "title": "Figma Work",
+    "description": "Designed a clean, modern UI/UX prototype using Figma that focuses on intuitive navigation and visual clarity. The layout demonstrates a strong understanding of user-centered design principles and seamless interaction flows.",
     "link": "https://www.figma.com/design/2YPON3wseJpkueoGdhsEQv/Untitled?node-id=301-1199&t=6yYJboZUxnU7KQ4m-1"
+  },
+  {
+    "title": "Jewellery That Speaks Elegance",
+    "description": "Full brand identity creation for a fictional luxury jewellery brand. Includes logo concepts, typography selection, color palette development, and brand style guide documentation.",
+    "link": "https://www.canva.com/design/DAGeBk9NUfk/5FDhtBX7tkQ0ISCoUfljFA/edit"
   },
   {
     "title": "EcoWear E-Commerce UI/UX",
     "description": "Designed the responsive visual interface and user experience flow for a sustainable clothing e-commerce platform. Focused on clear hierarchy and accessibility in product listings.",
-    "link": "https://www.figma.com/design/2YPON3wseJpkueoGdhsEQv/Untitled?node-id=301-1199&t=6yYJboZUxnU7KQ4m-1"
+    "link": "https://www.canva.com/design/DAGfnl0UMrM/e3Gak7GRxsrO48V-I3drWA/edit"
   },
   {
     "title": "Car rental",
     "description": "Complete mobile UI/UX design for a local car rental service. Included wireframing, high-fidelity mockups, and interactive prototyping in Figma.",
-    "link": "https://www.figma.com/design/2YPON3wseJpkueoGdhsEQv/Untitled?node-id=301-1199&t=6yYJboZUxnU7KQ4m-1"
+    "link": "https://www.canva.com/design/DAGh-M4o-hA/G37vvwdIf3OBuWKfBi3CsA/edit"
   },
     {
     "title": "Brochure",
     "description": "Designed a tri-fold marketing brochure and corresponding digital PDF for a new tech startup. Managed layout, imagery, and ensured print-ready production specifications.",
-    "link": "https://www.figma.com/design/2YPON3wseJpkueoGdhsEQv/Untitled?node-id=301-1199&t=6yYJboZUxnU7KQ4m-1"
+    "link": "https://www.canva.com/design/DAGexa5lFN8/p1VF7UDrc6xdpFTVZSB-kQ/edit"
   },
   {
     "title": "Reel",
@@ -28,5 +33,16 @@
     "title": "Festival post",
     "description": "Designed a vertical, animated social media video (Reel/Story format) celebrating the victory of good. Utilized Kinetic Typography and a bold, metallic color palette (deep red/gold) to create a sense of motion and impact. Focus was on a quick, high-energy message.",
     "link": "https://www.canva.com/folder/FAFi_d3Gf6Q"
+  },
+  {
+    "title": "Onine Home Service System",
+    "description": "This system is providing the online service at home. This system provides all kind of service that you need to your home. An online home service system is a digital platform that facilitates the booking and management of various home-related services through an easy-to-use website or mobile app.",
+    "link": "/public/online home service system.pdf"
+  },
+  {
+    "title": "Smart Temperature Control System For Home",
+    "description": "The Smart Temperature Control System for Home is an IoT-based solution designed to monitor and regulate indoor temperature conditions in real time. The system automatically detects temperature variations and triggers appropriate actions such as activating a fan, air conditioner, or heater to maintain a comfortable environment. It also provides instant user notifications through an LCD display, LED indicators, and a buzzer.",
+    "link": "/public/Smart Temperature Control System For Home.pdf"
   }
+
 ]

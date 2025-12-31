@@ -18,7 +18,7 @@ const items = projects as Project[]
 const githubUrl = (() => {
   const f: any = footer as any
   const hit = f?.socials?.find((s: any) => String(s?.kind ?? s?.label ?? '').toLowerCase().includes('github'))
-  return hit?.url || 'https://www.figma.com/design/2YPON3wseJpkueoGdhsEQv/Untitled?node-id=301-1199&t=6yYJboZUxnU7KQ4m-1'
+  return hit?.url || 'https://www.canva.com/folder/FAFi_d3Gf6Q'
 })()
 
 export default function Projects() {

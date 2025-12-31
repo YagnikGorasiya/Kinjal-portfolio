@@ -11,7 +11,7 @@ type ExperienceItem = {
   company: string
   role: string
   period: string
-  summary: string
+  summary: string[]
   technologies?: string[]
 }
 
@@ -89,9 +89,14 @@ export default function Experience() {
                     {item.period}
                   </Typography>
                 </Stack>
-                <Typography variant="body1" color="text.secondary">
-                  {item.summary}
-                </Typography>
+                <Stack component="ul" spacing={0.75} sx={{ pl: 2, color: 'text.secondary' }}>
+  {item.summary.map((point, i) => (
+    <Typography component="li" variant="body2" key={i}>
+      {point}
+    </Typography>
+  ))}
+</Stack>
+
                 {item.technologies && item.technologies.length > 0 && (
                   <Stack direction="row" flexWrap="wrap" gap={1}>
                     {item.technologies.map((tech) => (

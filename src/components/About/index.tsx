@@ -97,7 +97,7 @@ export default function About() {
             </Grid>
           </Box>
 
-          {/* {data.timeline && data.timeline.length > 0 && (
+          {data.timeline && data.timeline.length > 0 && (
             <Stack spacing={2} className="about-reveal">
               <Typography variant="h6" fontWeight={700}>
                 Timeline
@@ -123,7 +123,7 @@ export default function About() {
                 ))}
               </Stack>
             </Stack>
-          )} */}
+          )}
         </Stack>
       </Container>
     </Box>

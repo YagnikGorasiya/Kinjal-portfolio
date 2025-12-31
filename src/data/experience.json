@@ -1,15 +1,40 @@
 [
   {
     "company": "Trakky Techno Pvt Ltd",
-    "role": "Graphic Designer",
-    "period": "05/2025 – present",
-    "summary": "Responsible for the design of key corporate and print materials, including internal presentations, white papers, and promotional brochures. Managed the full design lifecycle from concept creation to final print-ready production files.",
+    "role": "Graphic Designer & Customer Service Executive",
+    "period": "05/2025 – Present",
+    "summary": [
+      "Designed promotional visuals including social media posts, banners, and email creatives for the salon & spa discovery platform.",
+      "Collaborated with marketing, product, and tech teams to develop campaigns aligned with brand identity.",
+      "Edited and retouched images for both digital and print media to ensure high-quality, on-brand visuals.",
+      "Maintained visual asset libraries and followed brand guidelines to ensure consistency across platforms.",
+      "Contributed to improving design systems and overall brand consistency."
+    ],
     "technologies": [
       "Figma",
       "Adobe Illustrator",
+      "Canva",
       "UI/UX Principles",
-      "Prototyping",
       "Design Systems"
+    ]
+  },
+  {
+    "company": "The Data Sequence",
+    "role": "Graphic Designer Intern",
+    "period": "January 2025 – April 2025",
+    "summary": [
+      "Created marketing materials, posters, and social media graphics aligned with brand guidelines.",
+      "Collaborated with the design team to develop visual concepts and campaign layouts.",
+      "Designed UI/UX wireframes and web assets to improve user experience.",
+      "Edited and enhanced images for digital and print platforms.",
+      "Participated in brainstorming sessions and contributed creative ideas."
+    ],
+    "technologies": [
+      "Figma",
+      "Adobe Illustrator",
+      "Canva",
+      "UI/UX Principles",
+      "Prototyping"
     ]
   }
 ]
