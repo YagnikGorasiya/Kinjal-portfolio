@@ -137,18 +137,18 @@ export default function Hero() {
               justifyContent="center"
               alignItems="center"
             >
-              {/* <Button
+              <Button
                 variant="outlined"
                 color="primary"
                 size="large"
                 target="_blank"
                 component="a"
-                href="https://drive.google.com/file/d/1DsZV8H8vy7SfcNYNWtO9pvPTPOMS8CtK/view?usp=sharing"
-                download
+                href="/public/kinjal_CV.pdf"
+                download="KinjalChaudhary_CV.pdf"
                 aria-label="Download Resume PDF"
               >
                 Download Resume
-              </Button> */}
+              </Button>
 
                 <Button
                 variant="contained"

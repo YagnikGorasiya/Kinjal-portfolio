@@ -57,7 +57,7 @@ export default function Footer() {
           {data.email && (
             <Stack direction="row" spacing={1.5} alignItems="center">
               <AlternateEmailIcon color="action" />
-              <Link href={`https://mail.google.com/mail/u/0/?fs=1&to=${data.email}.com&su=Hey+Darshan!&tf=cm`} underline="hover" fontWeight={600}>
+              <Link href={`https://mail.google.com/mail/u/0/?fs=1&to=${data.email}.com&su=Hey+Kinjal!&tf=cm`} underline="hover" fontWeight={600}>
                 {data.email}
               </Link>
             </Stack>
